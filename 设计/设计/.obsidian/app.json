@@ -1,0 +1,25 @@
+{
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-inline-math",
+    "editor:insert-codeblock",
+    "editor:insert-mathblock",
+    "editor:insert-table",
+    "editor:configure-toolbar",
+    "editor:table-col-copy"
+  ],
+  "mobilePullAction": "editor:save-file"
+}
