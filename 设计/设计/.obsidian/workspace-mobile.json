@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习Markdown.md",
-                "mode": "source",
-                "source": false
+                "file": "操作优化.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "学习Markdown.md",
+            "file": "操作优化.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "学习Markdown.md",
+            "file": "操作优化.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "学习Markdown.md"
+            "file": "操作优化.md"
           }
         }
       }
@@ -131,11 +131,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7d7e926e10b3b34",
+  "active": "a9dea78dee1dcbc4",
   "lastOpenFiles": [
-    "Image_1721494085448.png",
-    "星球机制.md",
+    "星球机制&更改.md",
+    "操作优化.md",
     "单位.md",
-    "操作优化.md"
+    "Image_1721494085448.png",
+    "学习Markdown.md"
   ]
 }
