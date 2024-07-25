@@ -19,6 +19,7 @@
     "editor:attach-file",
     "editor:insert-embed",
     "editor:insert-table",
+    "editor:insert-wikilink",
     "editor:configure-toolbar"
   ],
   "mobilePullAction": "editor:save-file"

@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关卡.md",
-                "mode": "source",
-                "source": false
+                "file": "单位.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "关卡.md",
+            "file": "星球机制&更改.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "关卡.md",
+            "file": "星球机制&更改.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "关卡.md"
+            "file": "星球机制&更改.md"
           }
         }
       }
@@ -144,19 +143,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f5bd7b7df136e75",
+  "active": "a9dea78dee1dcbc4",
   "lastOpenFiles": [
-    "地形.md",
-    "关卡.md",
-    "建筑.md",
-    "成就.md",
-    "星球机制&更改.md",
-    "未命名",
     "操作优化.md",
-    "创意设计.md",
-    "成就",
+    "星球机制&更改.md",
+    "IMG_20240725_221610.jpg",
     "单位.md",
+    "效果.md",
+    "IMG_20240725_212052.jpg",
+    "创意设计.md",
+    "学习Markdown.md",
     "Image_1721494085448.png",
-    "学习Markdown.md"
+    "成就.md",
+    "关卡.md",
+    "地形.md",
+    "建筑.md",
+    "未命名",
+    "成就"
   ]
 }
