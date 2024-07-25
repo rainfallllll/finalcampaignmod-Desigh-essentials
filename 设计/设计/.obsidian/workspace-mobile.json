@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作优化.md",
+                "file": "星球机制&更改.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "2f5bd7b7df136e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关卡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "操作优化.md",
+            "file": "关卡.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "操作优化.md",
+            "file": "关卡.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "操作优化.md"
+            "file": "关卡.md"
           }
         }
       }
@@ -131,10 +144,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a9dea78dee1dcbc4",
+  "active": "2f5bd7b7df136e75",
   "lastOpenFiles": [
+    "地形.md",
+    "关卡.md",
+    "建筑.md",
+    "成就.md",
     "星球机制&更改.md",
+    "未命名",
     "操作优化.md",
+    "创意设计.md",
+    "成就",
     "单位.md",
     "Image_1721494085448.png",
     "学习Markdown.md"
