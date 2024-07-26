@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作优化.md",
-                "mode": "source",
+                "file": "建筑.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "操作优化.md",
+            "file": "建筑.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "操作优化.md",
+            "file": "建筑.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "操作优化.md"
+            "file": "建筑.md"
           }
         }
       }
@@ -146,6 +146,7 @@
   "active": "a9dea78dee1dcbc4",
   "lastOpenFiles": [
     "星球机制&更改.md",
+    "建筑.md",
     "操作优化.md",
     "IMG_20240725_221610.jpg",
     "单位.md",
@@ -157,7 +158,6 @@
     "成就.md",
     "关卡.md",
     "地形.md",
-    "建筑.md",
     "未命名",
     "成就"
   ]
