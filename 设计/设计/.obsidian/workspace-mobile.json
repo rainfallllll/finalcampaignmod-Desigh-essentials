@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "建筑.md",
-                "mode": "preview",
+                "file": "操作优化.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "建筑.md",
+            "file": "操作优化.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "建筑.md",
+            "file": "操作优化.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "建筑.md"
+            "file": "操作优化.md"
           }
         }
       }
@@ -145,16 +145,22 @@
   },
   "active": "a9dea78dee1dcbc4",
   "lastOpenFiles": [
+    "Image_1722058897367.png",
+    "Image_1722058894492.png",
+    "Image_1722058893627.png",
+    "Image_1722058892453.png",
     "星球机制&更改.md",
-    "建筑.md",
     "操作优化.md",
+    "建筑.md",
+    "效果.md",
+    "Image_1721981381362.png",
+    "Image_1701359794553.jpg",
+    "Image_1721494085448.png",
+    "IMG_20240725_212052.jpg",
     "IMG_20240725_221610.jpg",
     "单位.md",
-    "效果.md",
-    "IMG_20240725_212052.jpg",
     "创意设计.md",
     "学习Markdown.md",
-    "Image_1721494085448.png",
     "成就.md",
     "关卡.md",
     "地形.md",
