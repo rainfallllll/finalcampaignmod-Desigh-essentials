@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作优化.md",
+                "file": "物品.md",
                 "mode": "preview",
                 "source": true
               }
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "操作优化.md",
+            "file": "物品.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "操作优化.md",
+            "file": "物品.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "操作优化.md"
+            "file": "物品.md"
           }
         }
       }
@@ -167,10 +167,19 @@
   },
   "active": "a9dea78dee1dcbc4",
   "lastOpenFiles": [
+    "事件.md",
+    "炮台.md",
+    "建筑.md",
+    "关卡.md",
+    "地形.md",
+    "单位.md",
+    "操作优化.md",
+    "成就.md",
+    "创意设计.md",
+    "星球机制&更改.md",
     "Image_1722273609601.png",
     "Image_1722273180505.jpg",
     "Image_1722058897367 1.png",
-    "星球机制&更改.md",
     "IMG_20240725_212052.jpg",
     "IMG_20240725_221610.jpg",
     "Image_1722058897367.png",
@@ -178,23 +187,13 @@
     "Image_1722058893627.png",
     "Image_1722058892453.png",
     "Image_1721981381362.png",
-    "Image_1721494085448.png",
-    "操作优化.md",
     "效果.md",
     "背景&设定.md",
-    "成就.md",
     "物品时期排序.md",
-    "关卡.md",
-    "创意设计.md",
-    "炮台.md",
     "学习Markdown.md",
-    "建筑.md",
-    "事件.md",
     "物品.md",
-    "地形.md",
     "支线.md",
     "音乐.md",
-    "单位.md",
     "解密.md",
     "未命名",
     "成就"
