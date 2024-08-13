@@ -22,5 +22,6 @@
     "editor:insert-wikilink",
     "editor:configure-toolbar"
   ],
-  "mobilePullAction": "editor:save-file"
+  "mobilePullAction": "editor:save-file",
+  "promptDelete": false
 }
