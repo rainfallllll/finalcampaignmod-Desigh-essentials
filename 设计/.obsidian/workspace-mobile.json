@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效果.md",
+                "file": "背景&设定.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "效果.md",
+            "file": "背景&设定.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "效果.md",
+            "file": "背景&设定.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "效果.md"
+            "file": "背景&设定.md"
           }
         }
       }
@@ -180,37 +180,37 @@
   },
   "active": "9b29cdba2ceb378c",
   "lastOpenFiles": [
-    "星球机制&更改.md",
-    "背景&设定.md",
     "操作优化.md",
-    "效果.md",
+    "背景&设定.md",
+    "支线.md",
+    "物品.md",
+    "音乐.md",
+    "学习Markdown.md",
+    "星球机制&更改.md",
+    "事件.md",
     "物品时期排序.md",
+    "效果.md",
+    "炮台.md",
+    "解密.md",
+    "建筑.md",
+    "关卡.md",
+    "地形&地区.md",
+    "单位.md",
+    "创意设计.md",
+    "成就.md",
     "IMG_20240812_013018 1.jpg",
     "IMG_20240812_013018.jpg",
     "IMG_20240812_011016 1.jpg",
     "IMG_20240725_221610.jpg",
     "IMG_20240812_011016.jpg",
     "Screenshot_20240812_010819.jpg",
-    "学习Markdown.md",
-    "炮台.md",
-    "地形&地区.md",
-    "物品.md",
-    "单位.md",
-    "创意设计.md",
-    "成就.md",
-    "建筑.md",
-    "关卡.md",
     "地区&区块.md",
     "未命名",
     "地区&",
-    "支线.md",
-    "音乐.md",
-    "事件.md",
     "Image_1722273609601.png",
     "Image_1722273180505.jpg",
     "Image_1722058897367 1.png",
     "IMG_20240725_212052.jpg",
-    "解密.md",
     "成就"
   ]
 }
