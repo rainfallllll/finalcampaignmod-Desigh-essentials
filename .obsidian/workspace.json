@@ -11,10 +11,14 @@
             "id": "29eb52775ab0697e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "设计/创意设计.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "创意设计"
             }
           }
         ]
@@ -85,66 +89,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b55a43e4c9d52d5a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "设计/优化&系统更改/机制&系统/效果.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "效果 的反向链接列表"
-            }
-          },
-          {
-            "id": "0e72f8663660b170",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/物流.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "物流 的出链列表"
-            }
-          },
-          {
-            "id": "c1b9a2a8be9cf646",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
             "id": "dcad34c01ef87481",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/物流.md",
+                "file": "设计/创意设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "物流 的大纲"
+              "title": "创意设计 的大纲"
             }
           },
           {
@@ -158,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,6 +133,8 @@
   },
   "active": "29eb52775ab0697e",
   "lastOpenFiles": [
+    "设计/流程&进度.md",
+    "设计/创意设计.md",
     "设计/内容&添加/成就.md",
     "设计/优化&系统更改/体验优化/辅助功能/编辑模式.md",
     "设计/内容&添加/物品.md",
@@ -201,8 +159,6 @@
     "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/资料库.md",
     "设计/优化&系统更改/体验优化/辅助功能/核心降落位置选择.md",
     "设计/优化&系统更改/体验优化/辅助功能/辅助显示.md",
-    "设计/优化&系统更改/体验优化/辅助功能/后台时间结算.md",
-    "设计/优化&系统更改/体验优化/辅助功能/监控模式.md",
     "设计/优化&系统更改/机制&系统/IMG_20240725_221610.jpg"
   ]
 }
