@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "524245b4c0c17f77",
+        "id": "d8ace819066cd24d",
         "type": "tabs",
         "children": [
           {
-            "id": "6c3edf6bb4be9828",
+            "id": "ac47743151ee78f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "设计/内容&添加/成就.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "成就"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c3edf6bb4be9828",
+  "active": "ac47743151ee78f8",
   "lastOpenFiles": [
+    "设计/内容&添加/成就.md",
     "设计/优化&系统更改/体验优化/辅助功能/编辑模式.md",
     "设计/内容&添加/物品.md",
     "设计/内容&添加/解密.md",
@@ -195,7 +196,6 @@
     "设计/内容&添加/音乐.md",
     "设计/内容&添加/事件.md",
     "设计/内容&添加/关卡.md",
-    "设计/内容&添加/成就.md",
     "设计/功能mod/replaymod.md",
     "设计/功能mod/区块强加载.md",
     "设计/优化&系统更改/机制&系统/热量&环境.md",
