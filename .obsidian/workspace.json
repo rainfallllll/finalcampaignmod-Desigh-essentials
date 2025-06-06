@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6baef035abdddf92",
+    "type": "split",
+    "children": [
+      {
+        "id": "524245b4c0c17f77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3edf6bb4be9828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计/内容&添加/成就.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "成就"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5227f11ceea7f90",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1f32b670a75ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8741042fef0ca518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "71068103114f12ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1eb51880f0a241a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f94fb5f68bdba107",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d86f23dd2d730b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55a43e4c9d52d5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "设计/优化&系统更改/机制&系统/效果.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "效果 的反向链接列表"
+            }
+          },
+          {
+            "id": "0e72f8663660b170",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/物流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "物流 的出链列表"
+            }
+          },
+          {
+            "id": "c1b9a2a8be9cf646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dcad34c01ef87481",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/物流.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "物流 的大纲"
+            }
+          },
+          {
+            "id": "b2262fe062a55644",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6c3edf6bb4be9828",
+  "lastOpenFiles": [
+    "设计/优化&系统更改/体验优化/辅助功能/编辑模式.md",
+    "设计/内容&添加/物品.md",
+    "设计/内容&添加/解密.md",
+    "设计/内容&添加/物品(1).md",
+    "设计/优化&系统更改/机制&系统/效果.md",
+    "设计/优化&系统更改/机制&系统/物品.md",
+    "设计/优化&系统更改/机制&系统/索敌.md",
+    "设计/优化&系统更改/机制&系统/势力辐射.md",
+    "设计/优化&系统更改/机制&系统/单位&编队.md",
+    "设计/优化&系统更改/机制&系统/存档系统.md",
+    "设计/内容&添加/效果.md",
+    "设计/内容&添加/音乐.md",
+    "设计/内容&添加/事件.md",
+    "设计/内容&添加/关卡.md",
+    "设计/内容&添加/成就.md",
+    "设计/功能mod/replaymod.md",
+    "设计/功能mod/区块强加载.md",
+    "设计/优化&系统更改/机制&系统/热量&环境.md",
+    "设计/优化&系统更改/机制&系统/评分系统.md",
+    "设计/优化&系统更改/机制&系统/核心.md",
+    "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/物流.md",
+    "设计/优化&系统更改/体验优化/辅助功能/CookerVI行星终端/资料库.md",
+    "设计/优化&系统更改/体验优化/辅助功能/核心降落位置选择.md",
+    "设计/优化&系统更改/体验优化/辅助功能/辅助显示.md",
+    "设计/优化&系统更改/体验优化/辅助功能/后台时间结算.md",
+    "设计/优化&系统更改/体验优化/辅助功能/监控模式.md",
+    "设计/优化&系统更改/机制&系统/IMG_20240725_221610.jpg"
+  ]
+}
